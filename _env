@@ -1,0 +1,9 @@
+DATABASE_HOST='212.9.2.92'
+DATABASE_NAME='XPXWebDevTraining'
+DATABASE_USER='XPXUser'
+DATABASE_PASS=''
+
+EMAIL_ACCOUNT_USERNAME='kashif.mehali@gmail.com'
+EMAIL_ACCOUNT_PASSWORD='yodzpwalralzsxid'
+EMAIL_PRIMARY_SMTP_ADDRESS='smtp.gmail.com'
+EMAIL_RECIPIENTS='kashif.ali@hotmail.co.uk'
